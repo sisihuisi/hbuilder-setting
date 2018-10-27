@@ -1,0 +1,1534 @@
+!!com.aptana.scripting.model.BundleElement
+author: ''
+children:
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [divc]
+  description: null
+  displayName: div_class
+  expansion: "<div class=\"$1\">\n\t$0\n</div>"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: true
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: &id001 []
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ngp]
+  description: null
+  displayName: ng-pluralize
+  expansion: <ng-pluralize>$1</ng-pluralize>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [divc]
+  description: null
+  displayName: div_id
+  expansion: "<div id=\"$1\">\n\t$0\n</div>"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: true
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [jquery-1.8.3]
+  description: null
+  displayName: jquery-1.8.3
+  expansion: <script src="http://cdn.bootcss.com/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [jquery-1.9.1]
+  description: null
+  displayName: jquery-1.9.1
+  expansion: <script src="http://cdn.bootcss.com/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [jquery-1.12.4]
+  description: null
+  displayName: jquery-1.11.3
+  expansion: <script src="http://cdn.bootcss.com/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [jquery-1.12.4]
+  description: null
+  displayName: jquery-1.12.4
+  expansion: <script src="http://cdn.bootcss.com/jquery/1.12.4/jquery.min.js" type="text/javascript"></script>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [jquery-2.2.4]
+  description: null
+  displayName: jquery-2.2.4
+  expansion: <script src="http://cdn.bootcss.com/jquery/2.2.4/jquery.min.js" type="text/javascript"></script>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [jquery-3.2.1]
+  description: null
+  displayName: jquery-3.2.1
+  expansion: <script src="http://cdn.bootcss.com/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [vue-2.5.13]
+  description: null
+  displayName: vue-2.5.13
+  expansion: <script src="https://cdn.bootcss.com/vue/2.5.13/vue.min.js" type="text/javascript"></script>$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [slideBox1111]
+  description: null
+  displayName: 图片轮换焦点：slideBox1111
+  expansion: "\n<div class=\"slideBox1\">\n\t<div class=\"hd\">\n\t\t<ul>\n\t\t\t\
+    <li>1</li>\n\t\t\t<li>2</li>\n\t\t\t<li>3</li>\n\t\t</ul>\n\t</div>\n\t<div class=\"\
+    bd\">\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\t<a href=\"#\"><img src=\"images/p1.jpg\"\
+    \ /></a>\n\t\t\t\t<p><a href=\"#\">焦点图说明文字1</a></p>\n\t\t\t</li>\n\t\t\t<li>\n\
+    \t\t\t\t<a href=\"#\"><img src=\"images/p2.jpg\" /></a>\n\t\t\t\t<p><a href=\"\
+    #\">焦点图说明文字2</a></p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a href=\"#\"><img src=\"\
+    images/p3.jpg\" /></a>\n\t\t\t\t<p><a href=\"#\">焦点图说明文字3</a></p>\n\t\t\t</li>\n\
+    \t\t</ul>\n\t</div>\n</div>\n\\$(\".slideBox1\").slide({\n\tmainCell: \".bd ul\"\
+    ,\n\ttitCell: \".hd li\",\n\ttrigger: \"click\",\n\teffect: \"leftLoop\",\n\t\
+    autoPlay: true,\n\tdelayTime: 700,\n\tinterTime: 3000,\n\tpnLoop: true\n});\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [slideBox2222]
+  description: null
+  displayName: 图片轮换焦点：slideBox2222
+  expansion: "\n<div class=\"slideBox2\">\n\t<div class=\"hd\">\n\t\t<ul>\n\t\t\t\
+    <li>1</li>\n\t\t\t<li>2</li>\n\t\t\t<li>3</li>\n\t\t</ul>\n\t</div>\n\t<div class=\"\
+    bd\">\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\t<a href=\"#\"><img src=\"images/p1.jpg\"\
+    \ /></a>\n\t\t\t\t<p><a href=\"#\">焦点图说明文字1</a></p>\n\t\t\t</li>\n\t\t\t<li>\n\
+    \t\t\t\t<a href=\"#\"><img src=\"images/p2.jpg\" /></a>\n\t\t\t\t<p><a href=\"\
+    #\">焦点图说明文字2</a></p>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a href=\"#\"><img src=\"\
+    images/p3.jpg\" /></a>\n\t\t\t\t<p><a href=\"#\">焦点图说明文字3</a></p>\n\t\t\t</li>\n\
+    \t\t</ul>\n\t</div>\n</div>\n\\$(\".slideBox2\").slide({\n\tmainCell: \".bd ul\"\
+    ,\n\ttitCell: \".hd li\",\n\ttrigger: \"click\",\n\teffect: \"leftLoop\",\n\t\
+    autoPlay: true,\n\tdelayTime: 700,\n\tinterTime: 3000,\n\tpnLoop: true\n});\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [tab1111]
+  description: null
+  displayName: tab切换1111
+  expansion: "\n<!--tab切换-->\n<div class=\"tab1\">\n\t<div class=\"hd\">\n\t\t<ul\
+    \ class=\"clearfix\">\n\t\t\t<li class=\"on\">省政府机构</li>\n\t\t\t<li>省属企业</li>\n\
+    \t\t\t<li>驻陕单位</li>\n\t\t</ul>\n\t</div>\n\t<div class=\"bd\">\n\t\t<div class=\"\
+    item\">\n\t\t\t<ul>\n\t\t\t\t<li><a href=\"#\">1111111111111111</a></li>\n\t\t\
+    \t\t<li><a href=\"#\">省发展和改革委员会</a></li>\n\t\t\t\t<li><a href=\"#\">省发展和改革委员会\
+    </a></li>\n\t\t\t</ul>\n\t\t</div>\n\t\t<div class=\"item\">\n\t\t\t<ul>\n\t\t\
+    \t\t<li><a href=\"#\">22222222222222222</a></li>\n\t\t\t\t<li><a href=\"#\">省发\
+    展和改革委员会</a></li>\n\t\t\t\t<li><a href=\"#\">省发展和改革委员会</a></li>\n\t\t\t</ul>\n\t\
+    \t</div>\n\t\t<div class=\"item\">\n\t\t\t<ul>\n\t\t\t\t<li><a href=\"#\">333333333333333333</a></li>\n\
+    \t\t\t\t<li><a href=\"#\">省发展和改革委员会</a></li>\n\t\t\t\t<li><a href=\"#\">省发展和改革\
+    委员会</a></li>\n\t\t\t</ul>\n\t\t</div>\n\t</div>\n</div>\n\\$(\".tab1\").slide({trigger:\
+    \ \"click\"});\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [tab2222]
+  description: null
+  displayName: tab切换2222
+  expansion: "\n<!--tab切换-->\n<div class=\"tab2\">\n\t<div class=\"hd\">\n\t\t<ul>\n\
+    \t\t\t<li class=\"on\">教育</li>\n\t\t\t<li>培训</li>\n\t\t\t<li>出国</li>\n\t\t</ul>\n\
+    \t</div>\n\t<div class=\"bd\">\n\t\t<ul>\n\t\t\t<li>\n\t\t\t\t<span class=\"date\"\
+    >2011-11-11</span>\n\t\t\t\t<div class=\"txt\"><a href=\"#\">中国打破了世界软件巨头规则</a></div>\t\
+    \n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<span class=\"date\">2011-11-11</span>\n\t\t\
+    \t\t<div class=\"txt\"><a href=\"#\">中国打破了世界软件巨头规则</a></div>\t\n\t\t\t</li>\n\t\
+    \t</ul>\n  \t<ul>\n\t\t\t<li>\n\t\t\t\t<span class=\"date\">2011-11-11</span>\n\
+    \t\t\t\t<div class=\"txt\"><a href=\"#\">中国打破了世界软件巨头规则</a></div>\t\n\t\t\t</li>\n\
+    \t\t\t<li>\n\t\t\t\t<span class=\"date\">2011-11-11</span>\n\t\t\t\t<div class=\"\
+    txt\"><a href=\"#\">中国打破了世界软件巨头规则</a></div>\t\n\t\t\t</li>\n\t\t</ul>\n\t\t<ul>\n\
+    \t\t\t<li>\n\t\t\t\t<span class=\"date\">2011-11-11</span>\n\t\t\t\t<div class=\"\
+    txt\"><a href=\"#\">中国打破了世界软件巨头规则</a></div>\t\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\
+    \t<span class=\"date\">2011-11-11</span>\n\t\t\t\t<div class=\"txt\"><a href=\"\
+    #\">中国打破了世界软件巨头规则</a></div>\t\n\t\t\t</li>\n\t\t</ul>\n\t</div>\n</div>\n\\$(\"\
+    .tab2\").slide({ trigger: \"click\" });\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [func]
+  description: null
+  displayName: function匿名函数
+  expansion: "\n<script type=\"text/javascript\">\n\t\\$(function() {\n\t\t\\$(\"\
+    #btn \").click(function() {\n\t\t \n\t\t})\n\t});\n</script>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [breadcrumb]
+  description: null
+  displayName: 面包屑导航breadcrumb
+  expansion: "\n<ul class=\"breadcrumb\">\n\t<li><a href=\"#\">主页</a></li>\n\t<li><a\
+    \ href=\"#\">新闻</a></li>\n\t<li class=\"active\">详情</li>\n</ul>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [search-box]
+  description: null
+  displayName: 搜索search-box
+  expansion: "\n<div class=\"search-box cl\">\n   <input type=\"text\" placeholder=\"\
+    请输入关键词\" class=\"form-control no-all\" name=\"search-text\" class=\"search-text\"\
+    \ value=\"\"  autocomplete=\"off\" >\n   <button type=\"submit\" class=\"btn btn-primary\
+    \ no-all\">搜索</button>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [progress-bar]
+  description: null
+  displayName: 进度条progress-bar
+  expansion: "\n<div class=\"progress-bar\">\n\t<div class=\"have-done\" style=\"\
+    width: 50%;\"></div>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [pagination111]
+  description: null
+  displayName: bootstrap分页1
+  expansion: "\n<ul class=\"pagination pagination-lg\">\n\t<li><a href=\"#\">上一页</a></li>\n\
+    \t<li><a href=\"#\">1</a></li>\n\t<li><a href=\"#\">2</a></li>\n\t<li><a href=\"\
+    #\">3</a></li>\n\t<li><a href=\"#\">4</a></li>\n\t<li><a href=\"#\">5</a></li>\n\
+    \t<li><a href=\"#\">下一页</a></li>\n</ul>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [pagination222]
+  description: null
+  displayName: bootstrap分页2
+  expansion: "\n<ul class=\"pagination\">\n\t<li><a href=\"#\">&laquo;</a></li>\n\t\
+    <li><a href=\"#\">1</a></li>\n\t<li><a href=\"#\">2</a></li>\n\t<li><a href=\"\
+    #\">3</a></li>\n\t<li><a href=\"#\">4</a></li>\n\t<li><a href=\"#\">5</a></li>\n\
+    \t<li><a href=\"#\">...</a></li>\n\t<li><a href=\"#\">&raquo;</a></li>\n\t<li\
+    \ class=\"disabled\"><a href=\"#\">共1205条</a></li>\n</ul>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [pagination333]
+  description: null
+  displayName: bootstrap分页3
+  expansion: "\n<div class=\"clearfix\">\n    <div class=\"pagination pull-right\"\
+    >\n        <div class=\"pagination-wrapper\">\n            <span class=\"pa-info\"\
+    >共5条 / 第1页</span>\n            <a href=\"#\" class=\"pa-start\">首页</a>\n     \
+    \       <a href=\"#\" class=\"pa-prev\">上一页</a>\n            <a href=\"#\" class=\"\
+    pa-page\">1</a>\n            <span class=\"pa-active\">2</span>\n            <a\
+    \ href=\"#\" class=\"pa-page\">3</a>\n            <a href=\"#\" class=\"pa-page\"\
+    >4</a>\n            <a href=\"#\" class=\"pa-page\">5</a>\n            <a href=\"\
+    #\" class=\"pa-next\">下一页</a>\n            <a href=\"#\" class=\"pa-end\">末页</a>\n\
+    \            <span class=\"skip-to\">跳转到第<input type=\"text\">页</span>\n     \
+    \   </div>\n    </div>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [paager111]
+  description: null
+  displayName: bootstrap简易分页pager
+  expansion: "\n<ul class=\"pager\">\n\t<li><a href=\"#\">上一页</a></li>\n\t<li><a href=\"\
+    #\">下一页</a></li>\n</ul>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [panel panel-default]
+  description: null
+  displayName: panel
+  expansion: "\n<div class=\"panel panel-default\">\n    <div class=\"panel-hd cl\"\
+    >\n        <div class=\"panel-tit fl\">标题标题</div>\n        <div class=\"panel-more\
+    \ fr\">\n            <a href=\"#\">更多>></a>\n        </div>\n    </div>\n    <div\
+    \ class=\"panel-bd\">\n        内容内容内容内容\n    </div>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [close]
+  description: null
+  displayName: X关闭
+  expansion: <div class="close">&times;</div>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-default]
+  description: null
+  displayName: btn btn-default默认按钮
+  expansion: <button type="button" class="btn btn-default">默认按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-primary]
+  description: null
+  displayName: btn-primary原始按钮
+  expansion: <button type="button" class="btn btn-primary">原始按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-success]
+  description: null
+  displayName: btn-success成功按钮
+  expansion: <button type="button" class="btn btn-success">成功按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-info]
+  description: null
+  displayName: btn-info信息按钮
+  expansion: <button type="button" class="btn btn-info">信息按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-warning]
+  description: null
+  displayName: btn-warning警告按钮
+  expansion: <button type="button" class="btn btn-warning">警告按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-danger]
+  description: null
+  displayName: btn-danger危险按钮
+  expansion: <button type="button" class="btn btn-danger">危险按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-link]
+  description: null
+  displayName: btn-link链接按钮
+  expansion: <button type="button" class="btn btn-link">链接按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-lg]
+  description: null
+  displayName: btn btn-lg大按钮
+  expansion: <button type="button" class="btn btn-primary btn-lg">大按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-sm]
+  description: null
+  displayName: btn btn-sm小按钮
+  expansion: <button type="button" class="btn btn-primary btn-sm">小按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-xs]
+  description: null
+  displayName: btn btn-xs特别小按钮
+  expansion: <button type="button" class="btn btn-primary btn-xs">特别小按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [btn-block]
+  description: null
+  displayName: btn btn-block块级按钮
+  expansion: <button type="button" class="btn btn-primary btn-block">块级按钮</button>
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [textarea2]
+  description: null
+  displayName: textarea输入区域
+  expansion: "\n<form class=\"form-horizontal\">\n\t<div class=\"form-group\">\n\t\
+    \t<label class=\"col-sm-2 control-label\">请求参数</label>\n\t\t<div class=\"col-sm-10\"\
+    >\n\t\t\t<textarea class=\"form-control\" placeholder=\"请求参数\" rows=\"4\" cols=\"\
+    50\" id=\"txtarea1\" name=\"txtarea1\"></textarea>\n\t\t</div>\n\t</div>\n</form>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [form-inline]
+  description: null
+  displayName: form-inline横向表单
+  expansion: "\n\t<form class=\"form-inline\">\n\t      <div class=\"form-group\"\
+    >\n\t        <label for=\"inputName\">姓名：</label>\n\t        <input type=\"text\"\
+    \ class=\"form-control\" id=\"inputName\" placeholder=\"姓名\">\n\t      </div>\n\
+    \t      <div class=\"form-group\">\n\t        <label for=\"inputEmail\">邮箱：</label>\n\
+    \t        <input type=\"email\" class=\"form-control\" id=\"inputEmail\" placeholder=\"\
+    jane.doe@example.com\">\n\t      </div>\n\t      <button type=\"submit\" class=\"\
+    btn btn-info\">提交</button>\n\t</form>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [input]
+  description: null
+  displayName: input输入框
+  expansion: "\n<form class=\"form-horizontal\">\n    <div class=\"form-group\">\n\
+    \        <label class=\"col-sm-2 control-label\" for=\"name1\">信息标题</label>\n\
+    \        <div class=\"col-sm-10\">\n            <input type=\"text\" class=\"\
+    form-control \" id=\"name1\" placeholder=\"请输入\">\n        </div>\n    </div>\n\
+    \    <div class=\"form-group\">\n        <label class=\"col-sm-2 control-label\"\
+    \ for=\"name2\">人物单位</label>\n        <div class=\"col-sm-10\">\n            <input\
+    \ type=\"text\" class=\"form-control \" id=\"name2\" placeholder=\"请输入\">\n  \
+    \      </div>\n    </div>\n</form>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [input-lg]
+  description: null
+  displayName: input大输入框
+  expansion: "\n<form class=\"form-horizontal\">\n    <div class=\"form-group form-group-lg\"\
+    >\n        <label class=\"col-sm-2 control-label\" for=\"name1\">信息标题</label>\n\
+    \        <div class=\"col-sm-10\">\n            <input type=\"text\" class=\"\
+    form-control \" id=\"name1\" placeholder=\"请输入\">\n        </div>\n    </div>\n\
+    \    <div class=\"form-group form-group-lg\">\n        <label class=\"col-sm-2\
+    \ control-label\" for=\"name2\">人物单位</label>\n        <div class=\"col-sm-10\"\
+    >\n            <input type=\"text\" class=\"form-control \" id=\"name2\" placeholder=\"\
+    请输入\">\n        </div>\n    </div>\n</form>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [input-sm]
+  description: null
+  displayName: input小输入框
+  expansion: "\n<form class=\"form-horizontal\">\n    <div class=\"form-group form-group-sm\"\
+    >\n        <label class=\"col-sm-2 control-label\" for=\"name1\">信息标题</label>\n\
+    \        <div class=\"col-sm-10\">\n            <input type=\"text\" class=\"\
+    form-control \" id=\"name1\" placeholder=\"请输入\">\n        </div>\n    </div>\n\
+    \    <div class=\"form-group form-group-sm\">\n        <label class=\"col-sm-2\
+    \ control-label\" for=\"name2\">人物单位</label>\n        <div class=\"col-sm-10\"\
+    >\n            <input type=\"text\" class=\"form-control \" id=\"name2\" placeholder=\"\
+    请输入\">\n        </div>\n    </div>\n</form>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [select]
+  description: null
+  displayName: select选择框
+  expansion: "\n <div class=\"form-group\">\n      <select class=\"form-control\"\
+    >\n         <option value=\"-1\">选择</option>\n         <option value=\"aa\">选择\
+    2</option>\n         <option value=\"bb\">选择3</option>\n      </select>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [checkbox]
+  description: null
+  displayName: checkbox多选
+  expansion: '
+
+    <label class="checkbox-inline"><input type="checkbox" value="aa"> 选项 1</label>
+
+    <label class="checkbox-inline"><input type="checkbox" value="bb"> 选项 2</label>
+
+    <label class="checkbox-inline"><input type="checkbox" value="cc"> 选项 3</label>
+
+    '
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [radio]
+  description: null
+  displayName: radio单选
+  expansion: '
+
+    <label class="radio-inline"><input type="radio" name="aa" value="op1" checked>
+    选项 1</label>
+
+    <label class="radio-inline"><input type="radio" name="bb" value="op2"> 选项 2</label>
+
+    <label class="radio-inline"><input type="radio" name="cc" value="op3"> 选项 3</label>
+
+    '
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [col]
+  description: null
+  displayName: col-sm-12栅格系统
+  expansion: "\n<div class=\"container-fluid\">\n\t<div class=\"row\">\n\t\t<div class=\"\
+    col-sm-6 col-md-6 col-lg-6\">\n\t\t\t123\n\t\t</div>\n\t\t<div class=\"col-sm-6\
+    \ col-md-6 col-lg-6\">\n\t\t\t123\n\t\t</div>\n\t</div>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [table]
+  description: null
+  displayName: table表格
+  expansion: "\n<table class=\"table table-bordered table-hover table-striped\">\n\
+    \t<thead>\n\t\t<tr>\n\t\t\t<th>产品产品</th>\n\t\t\t<th>付款日期</th>\n\t\t\t<th>状态状态\
+    </th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>产品1</td>\n\t\t\t\
+    <td>23/11/2013</td>\n\t\t\t<td>待发货</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>产品2</td>\n\
+    \t\t\t<td>10/11/2013</td>\n\t\t\t<td>发货中</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>产\
+    品3</td>\n\t\t\t<td>20/10/2013</td>\n\t\t\t<td>待确认</td>\n\t\t</tr>\n\t</tbody>\n\
+    </table>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [main-nav]
+  description: null
+  displayName: 主导航：main-nav
+  expansion: "\n<div class=\"main-nav\">\n\t<div class=\"inner wp\">\n\t\t<ul class=\"\
+    cl\">\n\t\t\t<li><a href=\"#\">首页</a></li>\n\t\t\t<li class=\"line-y\">|</li>\n\
+    \t\t\t<li><a href=\"#\">领导讲话</a></li>\n\t\t\t<li class=\"line-y\">|</li>\n\t\t\
+    \t<li><a href=\"#\">最新资讯</a></li>\n\t\t\t<li class=\"line-y\">|</li>\n\t\t\t<li><a\
+    \ href=\"#\">媒体聚焦</a></li>\n\t\t\t<li class=\"line-y\">|</li>\n\t\t\t<li><a href=\"\
+    #\">贯彻落实</a></li>\n\t\t\t<li class=\"line-y\">|</li>\n\t\t\t<li><a href=\"#\"\
+    >图片报道</a></li>\n\t\t\t<li class=\"line-y\">|</li>\n\t\t\t<li><a href=\"#\">典型发\
+    言</a></li>\n\t\t\t<li class=\"line-y\">|</li>\n\t\t\t<li><a href=\"#\">历次会议</a></li>\n\
+    \t\t</ul>\n\t</div>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [paage111]
+  description: null
+  displayName: 分页代码：page
+  expansion: "\n\n<!-----------------------分页-------------------------->\n<div class=\"\
+    page mt30 cl\">\n\t<a class=\"prev\" href=\"#\">上一页</a>\n\t<a class=\"now\">1</a>\n\
+    \t<a href=\"#\">2</a>\n\t<a href=\"#\">3</a>\n\t<a href=\"#\">4</a>\n\t<a href=\"\
+    #\">5</a>\n\t<a href=\"#\">6</a> \n\t<a class=\"none\" href=\"#\">...</a>\n\t\
+    <a href=\"#\">10</a>\n\t<a class=\"next\" href=\"#\">下一页</a>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [pic-list-box]
+  description: null
+  displayName: 图片列表：pic-list-box
+  expansion: "\n<div class=\"pic-list-box\">\n\t<div class=\"bd\">\n\t\t\t<ul class=\"\
+    clearfix\">\n\t\t\t\t<li>\n\t\t\t\t\t<div class=\"pic\">\n\t\t\t\t\t\t<a href=\"\
+    #\"><img src=\"images/zh/zs.jpg\"  alt=\"\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\
+    <div class=\"txt ell\"><a href=\"#\">党和国家领导人参加首都义务植树活动 </a></div>\n\t\t\t\t</li>\n\
+    \t\t\t\t<li>\n\t\t\t\t\t<div class=\"pic\">\n\t\t\t\t\t\t<a href=\"#\"><img src=\"\
+    images/zh/zs.jpg\"  alt=\"\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"txt\
+    \ ell\"><a href=\"#\">党和国家领导人参加首都义务植树活动 </a></div>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\
+    \t\t\t\t\t<div class=\"pic\">\n\t\t\t\t\t\t<a href=\"#\"><img src=\"images/zh/zs.jpg\"\
+    \  alt=\"\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"txt ell\"><a href=\"\
+    #\">党和国家领导人参加首都义务植树活动 </a></div>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<div\
+    \ class=\"pic\">\n\t\t\t\t\t\t<a href=\"#\"><img src=\"images/zh/zs.jpg\"  alt=\"\
+    \"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"txt ell\"><a href=\"#\">党和国家\
+    领导人参加首都义务植树活动 </a></div>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t</div>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [pic-list-box2]
+  description: null
+  displayName: 图片列表：pic-list-box2
+  expansion: "\n<div class=\"pic-list-box\">\n    <div class=\"bd\">\n           \
+    \ <ul class=\"clearfix\">\n                <li>\n                    <a href=\"\
+    #\"><img src=\"images/px-pic-zxft.jpg\" ></a>\n                    <div class=\"\
+    img-txt\"><a href=\"#\">大力发展油茶产业保障国家粮保障国家粮</a></div>\n                    <div\
+    \ class=\"img-txt-bg\"></div>\n                </li>\n                <li>\n \
+    \                   <a href=\"#\"><img src=\"images/px-pic-zxft.jpg\" ></a>\n\
+    \                    <div class=\"img-txt\"><a href=\"#\">大力发展油茶产业保障国家粮保障国家粮</a></div>\n\
+    \                    <div class=\"img-txt-bg\"></div>\n                </li>\n\
+    \                <li>\n                    <a href=\"#\"><img src=\"images/px-pic-zxft.jpg\"\
+    \ ></a>\n                    <div class=\"img-txt\"><a href=\"#\">大力发展油茶产业保障国家\
+    粮保障国家粮</a></div>\n                    <div class=\"img-txt-bg\"></div>\n     \
+    \           </li>\n                <li>\n                    <a href=\"#\"><img\
+    \ src=\"images/px-pic-zxft.jpg\" ></a>\n                    <div class=\"img-txt\"\
+    ><a href=\"#\">大力发展油茶产业保障国家粮保障国家粮</a></div>\n                    <div class=\"\
+    img-txt-bg\"></div>\n                </li>\n            </ul>\n    </div>\n</div>\n\
+    \n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [news-list-box]
+  description: null
+  displayName: 新闻列表：news-list-box
+  expansion: "\n\t\t\t<div class=\"news-list-box\">\n\t\t\t\t<div class=\"hd t-hd\
+    \ cl\">\n\t\t\t\t\t<h1>最新资讯</h1>\n\t\t\t\t\t<a href=\"#\" class=\"more\">更多>></a>\n\
+    \t\t\t\t</div>\n\t\t\t\t<div class=\"bd\">\n\t\t\t\t\t<div class=\"t-list\">\n\
+    \t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li class=\"clearfix\">\n\t\t\t\t\t\t\t\t<div\
+    \ class=\"txt ell\"><a href=\"#\">主动适应新常态实现林业新发展为改善生态改善民生作出更大贡献为改善生态改善生态</a></div>\n\
+    \t\t\t\t\t\t\t\t<div class=\"date\">2015-12-12</div>\n\t\t\t\t\t\t\t</li>\n\t\t\
+    \t\t\t\t\t<li class=\"clearfix\">\n\t\t\t\t\t\t\t\t<div class=\"txt ell\"><a href=\"\
+    #\">主动适应新常态实现林业新发展为改善生态改善民生作出更大贡献为改善生态改善生态</a></div>\n\t\t\t\t\t\t\t\t<div class=\"\
+    date\">2015-12-12</div>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"clearfix\"\
+    >\n\t\t\t\t\t\t\t\t<div class=\"txt ell\"><a href=\"#\">主动适应新常态实现林业新发展为改善生态改善民\
+    生作出更大贡献为改善生态改善生态</a></div>\n\t\t\t\t\t\t\t\t<div class=\"date\">2015-12-12</div>\n\
+    \t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"clearfix\">\n\t\t\t\t\t\t\t\t<div\
+    \ class=\"txt ell\"><a href=\"#\">主动适应新常态实现林业新发展为改善生态改善民生作出更大贡献为改善生态改善生态</a></div>\n\
+    \t\t\t\t\t\t\t\t<div class=\"date\">2015-12-12</div>\n\t\t\t\t\t\t\t</li>\n\t\t\
+    \t\t\t\t\t<li class=\"clearfix\">\n\t\t\t\t\t\t\t\t<div class=\"txt ell\"><a href=\"\
+    #\">主动适应新常态实现林业新发展为改善生态改善民生作出更大贡献为改善生态改善生态</a></div>\n\t\t\t\t\t\t\t\t<div class=\"\
+    date\">2015-12-12</div>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t    </div>\n\
+    \t\t\t\t</div>\n \n\t\t\t <!-----------------------分页-------------------------->\n\
+    \t\t\t <div class=\"page mt30 clearfix\">\n\t\t\t \t<a class=\"prev\" href=\"\
+    #\">上一页</a>\n\t\t\t \t<a class=\"now\">1</a>\n\t\t\t \t<a href=\"#\">2</a>\n\t\
+    \t\t \t<a href=\"#\">3</a>\n\t\t\t \t<a href=\"#\">4</a>\n\t\t\t \t<a href=\"\
+    #\">5</a>\n\t\t\t \t<a href=\"#\">6</a> ...\n\t\t\t \t<a href=\"#\">10</a>\n\t\
+    \t\t \t<a class=\"next\" href=\"#\">下一页</a>\n\t\t\t </div>\n\n\t\t\t</div>\n\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [article-box]
+  description: null
+  displayName: 文章：article-box
+  expansion: "\n<div class=\"article-box\">\n\t\t<div class=\"inner\">\n\t\t\t<div\
+    \ class=\"title\">\n\t\t\t\t<h1>主动适应新常态 实现林业新发展 为改善生态改善民生作出更大贡献</h1>\n\t\t\t</div>\n\
+    \t\t\t<div class=\"content\">\n\t\t\t\t<p>这次全国林业厅局长会议的主要任务是：深入学习领会习近平总书记系列重要讲话\
+    精神，全面贯彻落实党的十八大和十八届二中、三中、四中全会，以及中央经济工作会议、中央农村工作会议精神，总结2014年林业工作，部署2015年和今后一个时期林\
+    业工作。党的十八大以来，全国林业系统深入学习领会习近平总书记系列重要讲话精神，牢固树立中国特色社会主义生态观，认真落实党中央、国务院的决策部署，坚持把林业放\
+    在国家全局中来认识、来谋划，立足改善生态改善民生发展林业。我们的总体思路和重点工作，符合国家发展大局和林业发展规律，顺应了人民群众期待，与地方各级党委政府实\
+    现了同频共振，所以林业的形势越来越好、发展越来越快、影响越来越大。当前，我国经济发展已经进入新常态，林业改革发展的内外部环境正在发生深刻变化。各级林业部门要\
+    科学把握新常态，主动适应新常态，全力服务新常态，全面提升生态林业民生林业发展水平，为改善生态改善民生作出新的更大贡献。</p>\n\t\t\t</div>\n\
+    \t\t</div>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [video]
+  description: null
+  displayName: 视频：video
+  expansion: "\n<div class=\"pre-video\">\n\t<div class=\"hd c-tit cl\">\n\t\t<h1\
+    \ class=\"fl\"><img src=\"images/ico4.png\"/><em>视频报道</em></h1>\n\t\t<a href=\"\
+    #\" class=\"more\">更多>></a>\n\t</div>\n\t<div class=\"bd\">\n\t\t<div class=\"\
+    inner\">\n\t\t\t<ul class=\"cl\">\n\t\t\t\t<li>\n\t\t\t\t\t<div class=\"pic-box\"\
+    >\n\t\t\t\t\t\t<a class=\"video-ico\" href=\"#\"></a>\n\t\t\t\t\t\t<a href=\"\
+    #\"><img src=\"images/sp1.jpg\" /></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"\
+    pic-tit \">\n\t\t\t\t\t\t<div class=\"pic-txt ell\"><a href=\"#\">国家林业局副局长国家林业\
+    局副局长国家林业局副局长国家林业局副局长 陈凤学</a></div>\n\t\t\t\t\t\t<div class=\"pic-txt-bg\"></div>\n\
+    \t\t\t\t\t</div>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<div class=\"pic-box\"\
+    >\n\t\t\t\t\t\t<a class=\"video-ico\" href=\"#\"></a>\n\t\t\t\t\t\t<a href=\"\
+    #\"><img src=\"images/sp1.jpg\" /></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"\
+    pic-tit\">\n\t\t\t\t\t\t<div class=\"pic-txt ell\"><a href=\"#\">国家林业局副局长 陈凤学\
+    </a></div>\n\t\t\t\t\t\t<div class=\"pic-txt-bg\"></div>\n\t\t\t\t\t</div>\n\t\
+    \t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<div class=\"pic-box\">\n\t\t\t\t\t\t<a class=\"\
+    video-ico\" href=\"#\"></a>\n\t\t\t\t\t\t<a href=\"#\"><img src=\"images/sp1.jpg\"\
+    \ /></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"pic-tit\">\n\t\t\t\t\t\t<div\
+    \ class=\"pic-txt ell\"><a href=\"#\">国家林业局副局长 陈凤学</a></div>\n\t\t\t\t\t\t<div\
+    \ class=\"pic-txt-bg\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\
+    \t</div>\n\t</div>\n</div>\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [newpagehtml]
+  description: null
+  displayName: newpage.html
+  expansion: "<!DOCTYPE html>\n<html lang=\"zh-cn\">\n\t<html>\n\n\t<head>\n\t\t<meta\
+    \ charset=\"utf-8\">\n\t\t<meta name=\"renderer\" content=\"webkit\" />\n\t\t\
+    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n\t\t<title>标\
+    题</title>\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/base.css\"\
+    \ />\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/icon.css\" />\n\
+    \t</head>\n\n\t<body>\n\n\t\t<script src=\"http://libs.baidu.com/jquery/1.8.3/jquery.min.js\"\
+    \ type=\"text/javascript\"></script>\n\n\t\t<script>\n\t\t\t\\$(function() {\n\
+    \t\t\t\t\n\t\t\t})\n\t\t</script>\n\n\t</body>\n\n\t</html>"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html text
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ng-]
+  description: null
+  displayName: ng-
+  expansion: ng-${1:app/bind/bind-html/bind-template/blur/change/checked/class/class-even/class-odd/click/cloak/controller/copy/csp/cut/dblclick/disabled/focus/hide/href/if/include/init/keydown/keypress/keyup/list/model/mousedown/mouseenter/mouseleave/mousemove/mouseover/mouseup/ng-non-bindable/open/options/paste/readonly/repeat-start/repeat-end/selected/show/src/srcset/style/submit/swipe-left/swipe-right/switch/switch-default/switch-when/view}="$2"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: HTML_ATTRIBUTE
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\html_snippets.rb
+  runType: current_thread
+  scope: text.html entity.other.attribute-name.html
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+copyright: ''
+customProperties: null
+decreaseIndentMarkers: {}
+description: bundle_description
+displayName: bundle_name
+fileTypeRegistry: {}
+fileTypes: []
+foldingStartMarkers: {}
+foldingStopMarkers: {}
+increaseIndentMarkers: {}
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: ''
+visible: true

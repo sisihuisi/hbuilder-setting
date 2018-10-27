@@ -1,0 +1,549 @@
+!!com.aptana.scripting.model.BundleElement
+author: ''
+children:
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [-wk]
+  description: null
+  displayName: -webkit-
+  expansion: -webkit-$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: true
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: &id001 []
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [ell]
+  description: null
+  displayName: 单行文本溢出显示...-ell
+  expansion: text-overflow:ellipsis; white-space:nowrap; overflow:hidden;$0
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [pic-list-box]
+  description: null
+  displayName: 图片列表：pic-list-box
+  expansion: " \n.pic-list-box{}\n.pic-list-box .bd{ }\n.pic-list-box .bd ul{ margin-left:\
+    \ 10px;}\n.pic-list-box .bd ul li{ float: left; text-align: center; margin: 0\
+    \ 0 20px 10px;}\n.pic-list-box .bd ul li .txt{ background-color: #f0f0f0; width:\
+    \ 238px; padding: 5px 10px;}\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [pic-list-box2]
+  description: null
+  displayName: 图片列表：pic-list-box2
+  expansion: " \n.img-txt-bg,.img-txt{ position: absolute; left: 0; bottom: 0; right:\
+    \ 0; height:32px; line-height:32px; text-align: center;}\n.img-txt-bg{ z-index:\
+    \ 1;background: #000; filter: alpha(opacity=50); opacity: 0.5;  }\n.img-txt{ font-size:\
+    \ 12px; color: #fff;  z-index: 2; padding: 0 8px; text-overflow:ellipsis; white-space:nowrap;\
+    \ overflow:hidden;}\n.img-txt a{ color: #fff;}\n.img-txt a:hover{ color: #DF3131;}\n\
+    .pic-list-box{}\n.pic-list-box .bd{ }\n.pic-list-box .bd ul{ margin-left: -10px;}\n\
+    .pic-list-box .bd ul li{width: 190px; height: 115px; overflow: hidden; float:\
+    \ left; text-align: center; margin: 0 0 10px 10px; position: relative;}\n.pic-list-box\
+    \ .bd ul li .txt{ background-color: #f0f0f0; width: 238px; padding: 5px 10px;}\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [path111]
+  description: null
+  displayName: 面包屑导航（path）
+  expansion: " \n/*面包屑导航（path）*/\n.path {\n  padding: 8px 15px;\n  margin-bottom:\
+    \ 20px;\n  background-color: #f5f5f5;\n  -webkit-border-radius: 4px;\n  -moz-border-radius:\
+    \ 4px;\n  border-radius: 4px;\n}\n.path > li {\n  display: inline-block;\n}\n\
+    .path > li + li:before {\n  padding: 0 5px;\n  color: #ADADAD;\n  content: \"\
+    >\";\n}\n.path > .active {\n  color: #777;\n}\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [tab1111]
+  description: null
+  displayName: tab切换1111
+  expansion: " \n.tab1{ width: 800px; height: 300px; overflow: hidden; margin: 20px\
+    \ auto 0 auto;  }\n.tab1 .hd{ height:44px; line-height: 44px; position:relative;\
+    \  border-bottom: 1px solid #ddd; }\n.tab1 .hd ul{ float:left; position:absolute;\
+    \ left:10px; top:0px;   }\n.tab1 .hd ul li{ font-size: 16px; text-align: center;\
+    \ float:left; width: 140px; padding-left: 20px; padding-right: 20px; cursor:pointer;\
+    \ }\n.tab1 .hd ul li .icon2{  display: none;}\n.tab1 .hd ul li.on{ color: #1478aa;\
+    \ font-weight: bold;  line-height: 44px; background: #fff; border-bottom: 2px\
+    \ solid #1478aa;}\n.tab1 .hd ul li.on .icon2{ display: inline-block; }\n.tab1\
+    \ .bd{ overflow: hidden; padding: 15px;  }\n.tab1 .bd ul{ zoom:1;}\n.tab1 .bd\
+    \ .cc-list{ position: relative; }\n.tab1 .bd .cc-list a{ color: #617684;}\n.tab1\
+    \ .bd .cc-list a:hover{ color: #ef0000;}\n.tab1 .bd .cc-list .list{ float: left;\
+    \ width: 212px; text-overflow:ellipsis; white-space:nowrap; overflow:hidden; text-indent:\
+    \ 10px;} \n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [tab2222]
+  description: null
+  displayName: tab切换2222
+  expansion: " \n.tab2{ width:500px; border:1px solid #ddd; text-align:left; overflow:\
+    \ hidden; margin: 20px auto;  }\n.tab2 .hd{ height:36px; line-height:36px; background:#f4f4f4;\
+    \ border-bottom:1px solid #ddd; position:relative; box-sizing: content-box; }\n\
+    .tab2 .hd ul{ float:left;  position:absolute; left:-1px; top:-1px;   }\n.tab2\
+    \ .hd ul li{ float:left; padding:0 20px; cursor:pointer; box-sizing: content-box;\
+    \ }\n.tab2 .hd ul li.on{ height:36px; font-weight: bold;  background:#fff; border:1px\
+    \ solid #ddd; border-bottom:1px solid #fff; }\n.tab2 .bd ul{ padding:15px;  zoom:1;\
+    \  }\n.tab2 .bd li{ height:30px; line-height:30px;}\n.tab2 .bd li .date{ float:right;\
+    \ color:#999; }  \n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [paage111]
+  description: null
+  displayName: 分页代码蓝色
+  expansion: " \n/*--------------------分页蓝色--------------------*/\n.page{ padding:10px\
+    \ 10px 10px 0; margin-top: 10px; margin-bottom: 10px; text-align: center; color:\
+    \ #333; }\n.page .prev,.page .next{  }\n.page .inp{ height:20px; line-height:\
+    \ 20px; width: 2.5em; margin-left:4px; }\n.page .btn{ color:#fff; height:26px;\
+    \ line-height: 26px; background-color: #428bca; width:60px; }\n.page a,.page span,.page\
+    \ .none,.page .none:hover{\n   font-family: Tahoma, Geneva, sans-serif; text-decoration:\
+    \ none;  \n   font-size:12px; margin:0 4px;  padding:2px 12px; display: inline-block;\
+    \ \n   color:#333; background:#fff; border:1px solid #e0e0e0;   \n}\n.page li{\
+    \ display: inline-block; }\n.page a:hover, .page span, .page .now, .page .now:hover{\
+    \  color:#fff; background:#428bca; border:1px solid #428bca;  }\n.page .none:hover{\
+    \  cursor:default;}\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [paage222]
+  description: null
+  displayName: 分页代码红色
+  expansion: " \n/*--------------------分页红色--------------------*/\n.page{ padding:10px\
+    \ 10px 10px 0; margin-top: 10px; margin-bottom: 10px; text-align: center; color:\
+    \ #333; }\n.page .prev,.page .next{  }\n.page .inp{ height:20px; line-height:\
+    \ 20px; width: 2.5em; margin-left:4px; }\n.page .btn{ color:#fff; height:26px;\
+    \ line-height: 26px; background-color: #ec6565; width:60px; }\n.page a,.page span,.page\
+    \ .none,.page .none:hover{\n   font-family: Tahoma, Geneva, sans-serif; text-decoration:\
+    \ none;  \n   font-size:12px; margin:0 4px;  padding:2px 12px; display: inline-block;\
+    \ \n   color:#333; background:#fff; border:1px solid #e0e0e0;   \n}\n.page li{\
+    \ display: inline-block; }\n.page a:hover, .page span, .page .now, .page .now:hover{\
+    \  color:#fff; background:#ec6565; border:1px solid #ec6565;  }\n.page .none:hover{\
+    \  cursor:default;}\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [paage333]
+  description: null
+  displayName: 分页代码灰色
+  expansion: " \n/*--------------------分页灰色--------------------*/\n.page{ padding:10px\
+    \ 10px 10px 0; margin-top: 10px; text-align: center; color: #333; }\n.page .prev,.page\
+    \ .next{  }\n.page .inp{ height:20px; line-height: 20px; width: 2.5em; margin-left:4px;\
+    \ }\n.page .btn{ color:#fff; height:26px; line-height: 26px; background-color:\
+    \ #999; width:60px; }\n.page a,.page span,.page .none,.page .none:hover{\n   font-family:\
+    \ Tahoma, Geneva, sans-serif; text-decoration: none;\n   font-size:12px; margin:0\
+    \ 4px;  padding:5px 12px; display: inline-block; \n   color:#333; background:#fff;\
+    \ border:1px solid #e0e0e0;   \n}\n.page li{ display: inline-block; }\n.page a:hover,\
+    \ .page span, .page .now, .page .now:hover{  color:#fff; background:#999; border:1px\
+    \ solid #999;  }\n.page .none:hover{  cursor:default;}\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [main-nav]
+  description: null
+  displayName: 主导航:main-nav
+  expansion: " \n/*--------------------主导航--------------------*/\n.main-nav {margin-top:\
+    \ 325px; background: url(../images/bg2.jpg); height: 40px; position: relative;}\n\
+    .main-nav .inner{\n\tbackground: url(../images/bg3.png) no-repeat center center;\
+    \ position: absolute; bottom: 0; left: 50%; margin-left: -522px; \n\ttext-align:\
+    \ center;height: 60px; line-height: 60px;\n}\n.main-nav > ul{ margin-left: 20px;}\n\
+    .main-nav li{ display: inline-block; padding: 0 10px;  color: #fff; }\n.main-nav\
+    \ li a{ font-size: 18px; color: #fff;}\n.main-nav li a:hover,.main-nav li.on a{\
+    \ color: #fede6b;}\n\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [slideBox1111]
+  description: null
+  displayName: 图片轮换焦点:slideBox1111
+  expansion: " \n/*--------------------图片轮换焦点--------------------*/\n.slideBox1{ position:\
+    \ relative; width:500px; height:338px; overflow:hidden;}\n.slideBox1 .hd{ position:absolute;\
+    \ right: 10px; bottom: 10px;  z-index:1; }\n.slideBox1 .hd ul{ zoom:1;  }\n.slideBox1\
+    \ .hd ul li{ \n  float:left; margin-right:5px; width:20px; height:20px; line-height:20px;\
+    \ position: relative; \n  text-align:center; background:#fff; cursor:pointer;\
+    \  \n}\n.slideBox1 .hd ul li .arrow-up {\n\tdisplay: inline-block; position: absolute;\
+    \ left: 50%; margin-left: -5px; top: -5px;\n    width: 0px; height: 0px; display:\
+    \ none;\n    border-left: 5px solid transparent;\n    border-right: 5px solid\
+    \ transparent;\n    border-bottom: 5px solid #d50609;\n    font-size: 0px;\n \
+    \   line-height: 0px;\n}\n.slideBox1 .hd ul li.on{ background:#d50609; color:#fff;\
+    \ }\n.slideBox1 .hd ul li.on .arrow-up{display: block;}\n.slideBox1 .bd{ position:relative;\
+    \ height:100%; z-index:0;   }\n.slideBox1 .bd li{ position: relative; zoom:1;\
+    \ vertical-align:middle;}\n.slideBox1 .bd li img{ width:500px; height:338px; display:\
+    \ block;}\n.slideBox1 .bd li a{ color: #fff;}\n.slideBox1 .bd li p {\n  position:\
+    \ absolute; bottom: 0; left: 0; width: 100%; height: 44px; line-height: 44px;\
+    \ text-align: left; \n  font-size: 16px; color: #eee; text-indent: 12px; white-space:\
+    \ nowrap; \n  background: rgba(0,0,0,0.6); filter: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#99000000',endColorstr='#99000000');\
+    \ \n}\n\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [slideBox2222]
+  description: null
+  displayName: 图片轮换焦点:slideBox2222
+  expansion: " \n/*--------------------图片轮换焦点2--------------------*/\n.slideBox2{\
+    \ position: relative; width:500px; height:338px; overflow:hidden;}\n.slideBox2\
+    \ .hd{ height:15px; overflow:hidden; position:absolute; left:50%; margin-left:\
+    \ -30px; top: 260px; z-index:1; }\n.slideBox2 .hd ul{ overflow:hidden; zoom:1;\
+    \  }\n.slideBox2 .hd ul li{ \n  float:left; margin-right:5px; width:10px; height:10px;\
+    \ line-height:10px; \n  text-align:center; background:#e5e5e5; cursor:pointer;\
+    \ text-indent: -9999px; \n  -webkit-border-radius: 50%;\n  -moz-border-radius:\
+    \ 50%;\n  border-radius: 50%;  \n}\n.slideBox2 .hd ul li.on{ background:#d50609;\
+    \ color:#fff; }\n.slideBox2 .bd{ position:relative; height:100%; z-index:0;  \
+    \ }\n.slideBox2 .bd li{ position: relative; zoom:1; vertical-align:middle;}\n\
+    .slideBox2 .bd li img{ width:500px; height:338px; display: block;}\n.slideBox2\
+    \ .bd li a{ color: #fff;}\n.slideBox2 .bd li p {\n  position: absolute; bottom:\
+    \ 0; left: 0; width: 100%; height: 44px; line-height: 44px; text-align: left;\
+    \ \n  font-size: 16px; color: #eee; text-indent: 12px; white-space: nowrap; \n\
+    \  background: rgba(0,0,0,0.6); filter: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#99000000',endColorstr='#99000000');\
+    \ \n}\n\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [news-list-box]
+  description: null
+  displayName: 新闻列表mini:news-list-box
+  expansion: " \n/*--------------------新闻列表--------------------*/\n.t-hd h1{ font-size:\
+    \ 22px;}\n.t-list{ line-height: 33px; }\n.t-list .txt{ background: url(../images/dot.png)\
+    \ no-repeat 6px 50%; padding-left: 15px; float: left;}\n.t-list .date{ float:\
+    \ right;}\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [article-box]
+  description: null
+  displayName: 新闻列表:article-box
+  expansion: " \n/*--------------------文章的定义--------------------*/\n.article-box{\
+    \ padding-top: 40px; }\n.article-box .title{ text-align: center; border-bottom:\
+    \ 1px dotted #ccc;}\n.article-box .title h1{ font-size: 24px; }\n.article-box\
+    \ .content{ \n    font-size: 16px; word-wrap: break-word; word-break: break-all;\
+    \ overflow: hidden;  \n\ttext-indent: 2em; line-height: 36px; padding: 20px 10px;\
+    \ \n}\n.article-box .content h1{ font-size: 20px; font-weight: bold; margin-top:\
+    \ 1em; margin-bottom: 2em;}\n\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: [video]
+  description: null
+  displayName: 视频:video
+  expansion: " \n/*--------------------视频video--------------------*/\n.pre-video .bd\
+    \ .inner{ margin-left: -32px;}\n.pre-video .bd li{ width: 311px; float: left;\
+    \ overflow: hidden; margin: 34px 0 0 32px;}\n.pre-video .bd li img{ width: 311px;\
+    \ height: 222px;}\n.pre-video .bd li .pic-tit{text-align: center; font-size: 16px;}\n\
+    .pre-video .bd li{ line-height: 46px; border-bottom: 1px dotted  #b9b9b9; }\n\
+    .pre-video .bd li .n-list{ font-size: 16px; background: url(../images/dot2.png)\
+    \ no-repeat 0 center; text-indent: 15px; width: 864px;}\n.pic-txt,.pic-txt-bg{\
+    \ position: absolute; left: 0; bottom: 0; width: 100%; height:34px; line-height:34px;\
+    \ text-align: center;}\n.pic-txt-bg{ z-index: 1;background: #000; filter: alpha(opacity=50);\
+    \ opacity: 0.5;\t}\n.pic-txt{ font-size: 16px; color: #fff;  z-index: 2;}\n.pic-txt\
+    \ a{color: #fff;}\n\n"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: null
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css support.type.property-name.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  category: null
+  customProperties:
+    prefix_values: ['@mediam']
+  description: null
+  displayName: '@media min-max width'
+  expansion: "@media only screen and (min-width: ${1:100}px) and (max-width: ${2:640}px)\
+    \ {\n\t$0\n}"
+  iconPath: null
+  id: null
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  locationType: CSS_OUTRULE
+  menuId: null
+  needApplyReContentAssist: false
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\css_snippets.rb
+  runType: current_thread
+  scope: source.css entity.name.tag.css
+  tags: *id001
+  version: null
+  workingDirectoryType: UNDEFINED
+copyright: ''
+customProperties: null
+decreaseIndentMarkers: {}
+description: CSS bundle for RadRails
+displayName: bundle_name
+fileTypeRegistry: {}
+fileTypes: []
+foldingStartMarkers: {}
+foldingStopMarkers: {}
+increaseIndentMarkers: {}
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: ''
+visible: true
